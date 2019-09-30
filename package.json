@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/denners777/lambda-graphql#readme",
   "dependencies": {
+    "aws-sdk": "^2.539.0",
     "graphql": "^14.5.8"
   }
 }
