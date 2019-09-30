@@ -1,1 +1,1 @@
-# lambda-graphql-
+# lambda-graphql
